@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm KaCh! 👋
+# Hi there, I'm Kartikey! 👋
 
 🎓 IT Student
 💻 Aspiring Full-Stack Developer
@@ -76,7 +76,7 @@ Welcome to my GitHub profile!
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINK
+* <!--LinkedIn: https://linkedin.com/in/YOUR_LINK-->
 * Email: [kartikeychauhan321@gmail.com](mailto:kartikeychauhan321@gmail.com)
 
 ---
