@@ -4,9 +4,6 @@
   3rd-year B.Tech IT student @ VIT Vellore · building things to actually understand them, not just to ship them.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaChxKC&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
