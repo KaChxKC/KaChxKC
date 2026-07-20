@@ -9,7 +9,7 @@
 
 ### 🧠 About me
 
-- 🎓 Information Technology @ **VIT Vellore** · CGPA 9.07
+- 🎓 Information Technology @ **VIT Vellore** ·
 - 🧩 Grinding **DSA in Java** and building projects that teach me the fundamentals
 - 🤖 Long-standing interest in **Machine Learning** — currently working through the ML specialization
 - 🧪 Exploring **LLM app development** and prompt engineering
