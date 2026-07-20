@@ -1,82 +1,83 @@
-<!--
-**KaChxKC/KaChxKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Kartikey Chauhan 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  3rd-year B.Tech IT student @ VIT Vellore · building things to actually understand them, not just to ship them.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Kartikey! 👋
-
-🎓 IT Student
-💻 Aspiring Full-Stack Developer
-🚀 Building real projects while learning
-
-Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaChxKC&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🙋‍♂️ About Me
+### 🧠 About me
 
-* 🏫 Student passionate about technology & problem solving
-* 🌐 Currently learning **Frontend & Web Development**
-* 🧠 Exploring **DSA + Backend Development**
-* 🛠 Love turning ideas into working software
-* 🤝 Open to collaboration & project building
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+- 🎓 Information Technology @ **VIT Vellore** · CGPA 9.07
+- 🧩 Grinding **DSA in Java** and building projects that teach me the fundamentals
+- 🤖 Long-standing interest in **Machine Learning** — currently working through the ML specialization
+- 🧪 Exploring **LLM app development** and prompt engineering
+- 🦆 I treat my code reviewer like a rubber duck: I write it, then I defend it
 
 ---
 
-## 📚 Currently Learning
+### 🛠️ Tech Stack
 
-* React
-* Backend Development
-* Data Structures & Algorithms
+**Languages**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
+**Web & Backend**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KaChxKC\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaChxKC\&layout=compact\&theme=tokyonight)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+**ML & Tools**
 
-## 🚀 Projects
-
-* 🚌 **Shuttle Tracking System** – Real-time college transport tracking idea
-* 🥤 **Vending Machine Simulation** – Digital logic project
-* 🌐 More web projects coming soon...
-
----
-
-## 📫 Connect With Me
-
-* <!--LinkedIn: https://linkedin.com/in/YOUR_LINK-->
-* Email: [kartikeychauhan321@gmail.com](mailto:kartikeychauhan321@gmail.com)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-⭐ *“Learning by building — one project at a time.”*
+### 🚧 Featured Projects
+
+**🗂️ Life Tracker** — full-stack MERN app
+> JWT + Google OAuth auth, React dashboard with filtering, REST API backend. Deployed on Render.
+> `React` `Node` `Express` `MongoDB`
+
+**🔴 Connect 4 AI Agent** — game-playing agent in Python
+> Self-play learning loop with NumPy-based weight tuning. Built for my AI coursework.
+> `Python` `NumPy`
+
+<!-- Add repo links above once these are public, e.g. [→ repo](https://github.com/KaChxKC/life-tracker) -->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaChxKC&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaChxKC&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaChxKC&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+---
+
+### 🌱 Currently learning
+
+`Data Structures & Algorithms (Java)` · `Machine Learning` · `Building AI apps with LLMs`
+
+---
+
+### 📫 Reach me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/KaChKC"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:kartikeychauhan321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
