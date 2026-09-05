@@ -1,80 +1,73 @@
-<h1 align="center">Hi, I'm Kartikey Chauhan 👋</h1>
+# Kartikey Chauhan
 
-<p align="center">
-  3rd-year B.Tech IT student @ VIT Vellore · building things to actually understand them, not just to ship them.
-</p>
+**3rd-year B.Tech IT @ VIT Vellore** · I build things to understand them, not just to ship them.
 
-
----
-
-### 🧠 About me
-
-- 🎓 Information Technology @ **VIT Vellore** ·
-- 🧩 Grinding **DSA in Java** and building projects that teach me the fundamentals
-- 🤖 Long-standing interest in **Machine Learning** — currently working through the ML specialization
-- 🧪 Exploring **LLM app development** and prompt engineering
-- 🦆 I treat my code reviewer like a rubber duck: I write it, then I defend it
+[LinkedIn](https://www.linkedin.com/in/KaChKC) · [Email](mailto:kartikeychauhan321@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+## What I'm working on
 
-**Languages**
+Grinding DSA in Java every day, and building a reinforcement learning agent to find out how much
+self-play experience it takes to match a search algorithm that never learns anything at all.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**ML & Tools**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Selected among the **Top 1000** for **EricssonEdge Academia 3.0** — Ericsson's six-month program
+in 5G, Cloud, and AI across 40+ universities in India, Southeast Asia, and Oceania.
 
 ---
 
-### 🚧 Featured Projects
+## Projects
 
-**🗂️ Life Tracker** — full-stack MERN app
-> JWT + Google OAuth auth, React dashboard with filtering, REST API backend. Deployed on Render.
-> `React` `Node` `Express` `MongoDB`
+### 🗂️ [Life Dashboard](https://github.com/KaChxKC/Life-Dashboard) · [live →](https://life-dashboard-3v8u.onrender.com/)
 
-**🔴 Connect 4 AI Agent** — game-playing agent in Python
-> Self-play learning loop with NumPy-based weight tuning. Built for my AI coursework.
-> `Python` `NumPy`
+Everything I was tracking in four different apps, in one. Tasks and habits with streak counting,
+a Pomodoro timer that persists sessions, and an expense tracker — all rolling up into a single
+daily overview.
 
-<!-- Add repo links above once these are public, e.g. [→ repo](https://github.com/KaChxKC/life-tracker) -->
+Google Sign-In with stateless JWT sessions guarding every user-scoped endpoint. Spending
+breakdowns with Recharts. Deployed on Render against MongoDB Atlas.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaChxKC&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaChxKC&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaChxKC&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
+`React` · `Vite` · `Tailwind` · `Node` · `Express` · `MongoDB` · `Mongoose`
 
 ---
 
-### 🌱 Currently learning
+### 🔴 [Learn vs. Search](https://github.com/KaChxKC/Learn-Vs-Search) · *in progress*
 
-`Data Structures & Algorithms (Java)` · `Machine Learning` · `Building AI apps with LLMs`
+Reinforcement learning versus adversarial search on Connect-4. A tabular Q-learning agent trained
+purely through self-play, measured against depth-limited minimax with alpha-beta pruning.
+
+The interesting question isn't which one wins — it's how many games of experience it takes before
+learning catches up to lookahead. Built on a board-agnostic engine with immutable state
+transitions, so the same agents run unchanged on tic-tac-toe, 5×4, and 5×5 boards. Correctness is
+proven on solved games first, so anything that goes wrong at scale is a coverage problem and not a
+bug.
+
+`Python` · `Pytest`
 
 ---
 
-### 📫 Reach me
+### 🚗 [Multi-Mode Autonomous Robot](https://github.com/KaChxKC/Multi-Mode-Autonomous-Robot)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/KaChKC"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:kartikeychauhan321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-</p>
+Four behaviours on one chassis: line following, obstacle avoidance, object following, and line
+following with obstacle detours. A servo-mounted ultrasonic sensor sweeps left and right to compare
+clearances and pick a detour direction, over a shared differential-drive layer handling direction
+and PWM speed.
+
+Built with a team of 3.
+
+`Arduino` · `C++`
+
+---
+
+## Tech
+
+**Languages** — Java · Python · JavaScript · C++ · C · SQL
+**Web** — React · Vite · Tailwind · Node.js · Express · REST APIs · JWT · OAuth 2.0
+**Data** — MySQL · MongoDB · MongoDB Atlas · Mongoose
+**Tools** — Git · Render · Arduino
+
+---
+
+## Currently learning
+
+Data Structures & Algorithms (Java) · SQL window functions · Reinforcement learning fundamentals
