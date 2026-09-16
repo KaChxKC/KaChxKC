@@ -31,7 +31,7 @@ breakdowns with Recharts. Deployed on Render against MongoDB Atlas.
 
 ---
 
-### 🔴 [Learn vs. Search](https://github.com/KaChxKC/Learn-Vs-Search) · *in progress*
+### 🔴 [Learn vs. Search](https://github.com/KaChxKC/Learn-Vs-Search) 
 
 Reinforcement learning versus adversarial search on Connect-4. A tabular Q-learning agent trained
 purely through self-play, measured against depth-limited minimax with alpha-beta pruning.
