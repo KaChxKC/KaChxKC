@@ -48,14 +48,13 @@ bug.
 
 ### 🚗 [Multi-Mode Autonomous Robot](https://github.com/KaChxKC/Multi-Mode-Autonomous-Robot)
 
-Four behaviours on one chassis: line following, obstacle avoidance, object following, and line
-following with obstacle detours. A servo-mounted ultrasonic sensor sweeps left and right to compare
-clearances and pick a detour direction, over a shared differential-drive layer handling direction
-and PWM speed.
+### 🚗 [Multi-Mode Autonomous Robot](https://github.com/KaChxKC/Multi-Mode-Autonomous-Robot)
+
+A 4-in-1 robot car (obstacle avoidance, line following, line + obstacle detours, object following) controlled over WiFi: an ESP32 + Blynk dashboard switches modes, powers the robot on/off and shows live ultrasonic distance, while an Arduino Uno runs the real-time control.
 
 Built with a team of 3.
 
-`Arduino` · `C++`
+`Arduino` · `ESP32` · `Blynk` · `IoT` · `C++`
 
 ---
 
