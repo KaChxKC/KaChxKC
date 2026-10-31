@@ -48,9 +48,7 @@ bug.
 
 ### 🚗 [Multi-Mode Autonomous Robot](https://github.com/KaChxKC/Multi-Mode-Autonomous-Robot)
 
-### 🚗 [Multi-Mode Autonomous Robot](https://github.com/KaChxKC/Multi-Mode-Autonomous-Robot)
-
-A 4-in-1 robot car (obstacle avoidance, line following, line + obstacle detours, object following) controlled over WiFi: an ESP32 + Blynk dashboard switches modes, powers the robot on/off and shows live ultrasonic distance, while an Arduino Uno runs the real-time control.
+Four autonomous behaviours on one chassis: obstacle avoidance, line following, line following with obstacle detours, and object following, switchable live from a phone. An Arduino Uno handles real-time sensing and motor control, while an ESP32 gateway connects it to the Blynk cloud for remote ON/OFF, mode selection and live distance telemetry. A servo-mounted ultrasonic sensor sweeps left and right to compare clearances and pick the detour direction.
 
 Built with a team of 3.
 
